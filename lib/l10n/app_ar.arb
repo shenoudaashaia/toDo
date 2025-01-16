@@ -1,0 +1,23 @@
+{
+    "toDoList":"قائمه  المهام",
+    "settings":"الاعدادات",
+    "logout":"تسجيل الخروج",
+    "done":"!منتهي",
+    "addNewTask":"اضف مهمه جديده",
+    "title":"عنوان",
+    "description":"الوصف",
+    "selectDate":"اختار تاريخ",
+    "submit":"يقدم",
+    "login":"تسجيل الدخول",
+    "email":"الايميل",
+    "password":"الباسورد",
+    "dontHaveAndAccount":"لاامتلك اكونت!",
+    "createAccount":"انشاء حساب",
+    "name":"الاسم",
+    "alreadayhaveAndAccount":"امتلك اكونت بلفعل؟"
+
+    
+
+
+
+}

@@ -1,0 +1,18 @@
+{
+    "toDoList":"ToDoList",
+    "settings":"Settings",
+    "logout":"LogOut",
+    "done":"Done!",
+    "addNewTask":"add new task",
+    "title":"title",
+    "description":"description",
+    "selectDate":"select date",
+    "submit":"Submit",
+    "login":"Login",
+    "email":"email",
+    "password":"password",
+    "dontHaveAndAccount":"Dont have and account?",
+    "createAccount":"create Account",
+    "name":"name",
+    "alreadayhaveAndAccount":"Alreaday have and account?"
+}
